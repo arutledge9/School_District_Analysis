@@ -11,7 +11,7 @@ Now that our analysis is complete, we will address a number of outstanding quest
 - **District Summary:**
   Our district-wide summary (seen below) wasn't affected much by the removal of the THS 9th Grade grades. 
   ![](Resources/1_Summary_District.png)
-   We only see around two tenths of a reduction in the percentage of students passing math and one tenth of a reduction in  the percentage of students passing reading. Our overall passing percentage was reduced by 3 tenths of a percentage point. 
+   We only see around two tenths of a reduction in the percentage of students passing math and one tenth of a reduction in the percentage of students passing reading. Our overall passing percentage was reduced by 3 tenths of a percentage point. 
   
 - **School Summary:**
   Our school summary (seen below) also showed very little change from the previous summary run with the THS 9th Grade data included. THS saw a slight decrease in its average math score, but a slight increase in its average reading score.
@@ -38,7 +38,12 @@ Now that our analysis is complete, we will address a number of outstanding quest
      ![](Resources/5_School_Size.png)
      
   - *Scores by School Type*
+
+    I also wasn't surprised to see no changes here, as with the previous two summaries, we are looking at all of our schools condensed into a small number of categories, this time just two, so a change that produced only a tenth of a percentage change in a single school wouldn't register in two groupings of all schools rounding measurements on a tenth of a percentage point. 
+    ![](Resources/6_School_Type.png)
+    
     
 ### Summary
 
-
+After replacing the THS 9th Grade student math and reading scores with NaN values, we can observe four changes in our summary data:
+- 
